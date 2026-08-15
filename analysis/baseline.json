@@ -1,0 +1,150 @@
+{
+  "run_date": "2026-08-13",
+  "source": "v3.xlsx",
+  "model_version": 2,
+  "n_model": 651,
+  "r2": 0.807,
+  "resid_sd": 0.19,
+  "rows_all": 937,
+  "coefficients_pct": {
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Alpine White]": 16.2,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Carbon Black]": -1.5,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Imola Red]": 14.4,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Interlagos Blue]": 18.9,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Jet Black]": 4.8,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Laguna Seca Blue]": 57.8,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Mystic Blue]": 15.1,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Other Blue]": 12.5,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Other/Unknown]": 10.1,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Phoenix Yellow]": 13.9,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Silver Grey]": 10.0,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Steel Grey]": 12.3,
+    "C(int_grp, Treatment(\"Black\"))[T.Cinnamon]": 16.7,
+    "C(int_grp, Treatment(\"Black\"))[T.Grey]": -2.3,
+    "C(int_grp, Treatment(\"Black\"))[T.Imola Red]": 4.3,
+    "C(int_grp, Treatment(\"Black\"))[T.Other]": 0.4,
+    "C(int_grp, Treatment(\"Black\"))[T.Unknown]": 4.7,
+    "C(yr)[T.2018]": 8.3,
+    "C(yr)[T.2019]": 15.2,
+    "C(yr)[T.2020]": 27.3,
+    "C(yr)[T.2021]": 63.5,
+    "C(yr)[T.2022]": 78.6,
+    "C(yr)[T.2023]": 67.6,
+    "C(yr)[T.2024]": 71.2,
+    "C(yr)[T.2025]": 67.4,
+    "C(yr)[T.2026]": 92.5,
+    "manual": 26.4,
+    "zcp": 19.8,
+    "racp_done": 7.5,
+    "vanos_done": 3.8,
+    "rb_done": -1.9,
+    "no_res": -5.3,
+    "slick": -0.2,
+    "slick_unknown": -0.8
+  },
+  "pvalues": {
+    "Intercept": 0.0,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Alpine White]": 0.0001,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Carbon Black]": 0.6469,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Imola Red]": 0.0,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Interlagos Blue]": 0.0,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Jet Black]": 0.1515,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Laguna Seca Blue]": 0.0,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Mystic Blue]": 0.0166,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Other Blue]": 0.0525,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Other/Unknown]": 0.0115,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Phoenix Yellow]": 0.0098,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Silver Grey]": 0.0017,
+    "C(color_grp, Treatment(\"Titanium Silver\"))[T.Steel Grey]": 0.0127,
+    "C(int_grp, Treatment(\"Black\"))[T.Cinnamon]": 0.0,
+    "C(int_grp, Treatment(\"Black\"))[T.Grey]": 0.3326,
+    "C(int_grp, Treatment(\"Black\"))[T.Imola Red]": 0.227,
+    "C(int_grp, Treatment(\"Black\"))[T.Other]": 0.9192,
+    "C(int_grp, Treatment(\"Black\"))[T.Unknown]": 0.2305,
+    "C(yr)[T.2018]": 0.0766,
+    "C(yr)[T.2019]": 0.0036,
+    "C(yr)[T.2020]": 0.0,
+    "C(yr)[T.2021]": 0.0,
+    "C(yr)[T.2022]": 0.0,
+    "C(yr)[T.2023]": 0.0,
+    "C(yr)[T.2024]": 0.0,
+    "C(yr)[T.2025]": 0.0,
+    "C(yr)[T.2026]": 0.0,
+    "manual": 0.0,
+    "zcp": 0.0,
+    "racp_done": 0.0001,
+    "vanos_done": 0.031,
+    "rb_done": 0.3059,
+    "no_res": 0.0086,
+    "slick": 0.9666,
+    "slick_unknown": 0.7585
+  },
+  "year_index": {
+    "2018": 1.083,
+    "2019": 1.152,
+    "2020": 1.273,
+    "2021": 1.635,
+    "2022": 1.786,
+    "2023": 1.676,
+    "2024": 1.712,
+    "2025": 1.674,
+    "2026": 1.925
+  },
+  "subject": {
+    "label": "2004 M3 Coupe \u2014 Carbon Black / Cinnamon 6MT",
+    "vin": "WBSBL934X4PN58673",
+    "mileage": 27000.0,
+    "mileage_asof": "2026-08-12",
+    "manual": 1,
+    "zcp": 0,
+    "slick": 0,
+    "slick_unknown": 0,
+    "no_res": 0,
+    "color_grp": "Carbon Black",
+    "int_grp": "Cinnamon",
+    "rb_done": 0,
+    "racp_done": 0,
+    "vanos_done": 0
+  },
+  "valuation": {
+    "p68": [
+      47821.98829188626,
+      71427.72569902422
+    ],
+    "p80": [
+      45128.07413255791,
+      75691.59393022799
+    ],
+    "point": 58444.98149623113,
+    "with_vanos": 60670.54867228784,
+    "with_vanos_racp": 65233.33091536816,
+    "no_reserve": 55362.90688430133
+  },
+  "market_health": {
+    "2023": {
+      "n": 112,
+      "sell_through": 0.75
+    },
+    "2024": {
+      "n": 113,
+      "sell_through": 0.823
+    },
+    "2025": {
+      "n": 102,
+      "sell_through": 0.824
+    },
+    "2026": {
+      "n": 64,
+      "sell_through": 0.859
+    }
+  },
+  "data_quality": {
+    "unknown_color": 43,
+    "unknown_interior": 109,
+    "blank_mileage": 39,
+    "modified_excluded": 95,
+    "carfax_populated": 0,
+    "roof_unknown": 67
+  },
+  "_note": "Baseline for month-over-month diffing. Model v2 (spline mileage + year FE, full 937-row file). Overwrite with a verified run each month."
+}
